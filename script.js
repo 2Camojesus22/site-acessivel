@@ -1,4 +1,4 @@
-//italo 3C 20.08.2025//
+/*italo 3C 20.08.2025*/
 document.addEventListener('DOMContentLoaded', function(){
     const botaoDeAcessibilidade = document.getElementById('botao-acessibilidade')
     const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade')
@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function(){
  ScrollReveal().reveal('#tropicalia', { delay: 500 });
  ScrollReveal().reveal('#galeria', { delay: 500 });
  ScrollReveal().reveal('#contato', { delay: 500 });
+
 
 
 
